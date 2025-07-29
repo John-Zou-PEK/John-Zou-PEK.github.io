@@ -3,6 +3,7 @@ title: "Maths_Made_Simple"
 excerpt: "Personal blog on wechat discussing mathematical concepts for the general public.<br/><img src='/images/数学浅谈 copy.png'>"
 collection: projects
 type: "Project"
+date: 2025-07-29
 permalink: /projects/Maths_Made_Simple
 ---
 
