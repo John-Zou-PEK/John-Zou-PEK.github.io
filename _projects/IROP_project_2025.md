@@ -1,6 +1,6 @@
 ---
 title: "International Research Opportunities Program"
-excerpt: "Summer Research program conducted at the Institute of Science Tokyo under Prof. Miyoshi<br/><img src='/images/Tokyo_City.jpg'>"
+excerpt: "Summer Research program conducted at the Institute of Science Tokyo under Prof. Miyoshi<br/><img src='/images/Tokyo_City.jpg' height=300>"
 collection: projects
 type: "Project"
 date: 2025-07-29
