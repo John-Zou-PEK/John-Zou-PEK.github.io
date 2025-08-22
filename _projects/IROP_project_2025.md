@@ -11,6 +11,6 @@ From 30th of June to 22nd of August 2025, I participated in the international re
 
 In addition to the project, I attended a seminar on stochastic ordering, studying the usual stochastic order as well as the hazard rate ordering. I found it fascinating how this can be used to produce a lattice structure. This is also outlined in the appendix of the project notes.
 
-Project notes are linked [here](/John-Zou-PEK.github.io/files/IROP_Broadcast_Gossip_Algorithms%20copy.pdf). 
+Project notes are linked [here](/files/IROP_Broadcast_Gossip_Algorithms%20copy.pdf). 
 
 Any questions, mistakes or typos please let me know!
